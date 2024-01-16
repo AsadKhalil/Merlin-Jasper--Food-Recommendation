@@ -1,0 +1,20 @@
+
+
+
+Parameters for 1st script:
+--start_date "2021-06-20" --end_date "2021-06-24" --data_dir "E:\\Projects\\ksa_new_ots\\prediction_model_ksa\\data"
+
+Parameters for 2nd script:
+--prediction_start_date "2021-06-20" --data_dir "E:\\Projects\\ksa_new_ots\\prediction_model_ksa\\data" --run_id "local"
+
+Parameters for 3rd script:
+--data_dir "E:\\Projects\\ksa_new_ots\\prediction_model_ksa\\data" --prediction_start_date "2021-06-20" --prediction_end_date "2021-06-24" --run_id "local"
+
+Parameters for 4th script:
+--data_dir "E:\\Projects\\ksa_new_ots\\prediction_model_ksa\\data" --prediction_start_date "2021-06-20" --run_id "local"
+
+Parameters for 5th script:
+--data_dir "E:\\Projects\\ksa_new_ots\\prediction_model_ksa\\data" --prediction_start_date "2021-06-20" --prediction_end_date "2021-06-24" --run_id "local"
+
+Parameters for 6th script:
+--data_dir "E:\\Projects\\ksa_new_ots\\prediction_model_ksa\\data" --prediction_start_date "2021-06-20" --prediction_end_date "2021-06-24" --run_id "local"
